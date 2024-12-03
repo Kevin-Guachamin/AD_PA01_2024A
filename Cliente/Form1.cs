@@ -1,8 +1,8 @@
 ﻿// ************************************************************************
-// Practica 00
+// Practica 07
 // Kevin Guachamin, Carlos Benavides
-// Fecha de realización: 02/10/2024
-// Fecha de entrega: 02/10/2024
+// Fecha de realización: 27/11/2024
+// Fecha de entrega: 02/12/2024
 // Resultados:
 // * El código permite a los usuarios consultar el pico y placa de un vehículo, además de contar el número de consultas realizadas.
 // Conclusiones:
